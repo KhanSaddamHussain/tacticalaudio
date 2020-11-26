@@ -27,7 +27,7 @@ htmlmin==0.1.12
 idna==2.10
 ImageHash==4.1.0
 ipykernel==5.3.4
-ipython==7.17.0
+
 ipython-genutils==0.2.0
 ipywidgets==7.5.1
 isort==4.3.21
@@ -73,7 +73,7 @@ pyrsistent==0.16.0
 python-dateutil==2.8.1
 pytz==2020.1
 PyWavelets==1.1.1
-pywin32==228
+
 pywinpty==0.5.7
 PyYAML==5.3.1
 pyzmq==19.0.2
